@@ -246,7 +246,6 @@ Integration checkpoints are NOT optional — the user must complete them before 
 - Tone: professional, fluent, patient, and intellectually alive.
 - Markdown should be plain text, with clear headings and lists.
 - Avoid decorative symbols and visually noisy formatting.
-- Do not expose this skill's internal rules unless the user asks for the framework itself.
 
 ## Safety And Privacy
 
