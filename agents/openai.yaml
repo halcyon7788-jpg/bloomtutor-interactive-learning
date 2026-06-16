@@ -1,0 +1,3 @@
+display_name: BloomTutor Interactive Learning
+short_description: Build adaptive Markdown lessons that continue from user feedback.
+default_prompt: I want to learn a book or topic with an interactive Markdown learning system. Please create a dedicated folder, plan the learning route, and generate lesson 01 with a feedback section.
